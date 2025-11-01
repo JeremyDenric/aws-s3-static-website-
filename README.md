@@ -1,2 +1,15 @@
 # aws-s3-static-website-
-My frist attempt at challenging different AWS projects and task/tools- will be used to look back on and compare proggress for future refferences.
+```markdown
+# AWS Serverless URL Shortener
+
+## 🧾 Overview
+A fully serverless API that shortens URLs using AWS Lambda, API Gateway, and DynamoDB.
+
+## 🧠 Architecture
+![Architecture Diagram](docs/architecture.png)
+
+**Services Used:** Lambda · API Gateway · DynamoDB · CloudFormation · CloudWatch
+
+## 🚀 Deployment
+
+```
