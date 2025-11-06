@@ -1,0 +1,1 @@
+const [log, setLog] = useState([]);
